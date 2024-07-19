@@ -1,0 +1,7 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\bin\Debug\Meger_Sort.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\bin\Debug\Meger_Sort.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\bin\Debug\Meger_Sort.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\obj\Debug\Meger_Sort.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\obj\Debug\Meger_Sort.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\obj\Debug\Meger_Sort.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\Meger_Sort\obj\Debug\Meger_Sort.pdb

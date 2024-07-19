@@ -1,0 +1,7 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\bin\Debug\TimKiemNhiPhan_CDT.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\bin\Debug\TimKiemNhiPhan_CDT.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\bin\Debug\TimKiemNhiPhan_CDT.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\obj\Debug\TimKiemNhiPhan_CDT.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\obj\Debug\TimKiemNhiPhan_CDT.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\obj\Debug\TimKiemNhiPhan_CDT.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan2\TimKiemNhiPhan_CDT\TimKiemNhiPhan_CDT\obj\Debug\TimKiemNhiPhan_CDT.pdb
